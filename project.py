@@ -1,6 +1,9 @@
 # Name:Muhammad Affan Rasheed
 # Student ID: 24K-0579
 # Applied Physics Basic Vector Operation Project 2024
+
+
+
 import numpy as np
 
 
